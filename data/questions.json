@@ -1,0 +1,2218 @@
+[
+ {
+  "id": "ch-greeting",
+  "type": "which_chapter",
+  "question": "Which chapter? (greeting) Greeting: an apostle not from men",
+  "answer": "Chapter 1. Paul, an apostle sent not by men but by Jesus Christ and God the Father, greets the churches of Galatia: Christ gave himself to deliver us from the present evil age.",
+  "reference": "Galatians 1:1-5",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "greeting"
+ },
+ {
+  "id": "sec-greeting",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (greeting) Greeting: an apostle not from men",
+  "answer": "Personal defense (1-2), chapter 1. Paul, an apostle sent not by men but by Jesus Christ and God the Father, greets the churches of Galatia: Christ gave himself to deliver us from the present evil age.",
+  "reference": "Galatians 1:1-5",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "greeting"
+ },
+ {
+  "id": "ch-no_other_gospel",
+  "type": "which_chapter",
+  "question": "Which chapter? (argument) No other gospel",
+  "answer": "Chapter 1. Paul is astonished the Galatians are deserting to a different gospel and says anyone, even an angel from heaven, who preaches a contrary gospel should be accursed.",
+  "reference": "Galatians 1:6-10",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "no_other_gospel"
+ },
+ {
+  "id": "sec-no_other_gospel",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (argument) No other gospel",
+  "answer": "Personal defense (1-2), chapter 1. Paul is astonished the Galatians are deserting to a different gospel and says anyone, even an angel from heaven, who preaches a contrary gospel should be accursed.",
+  "reference": "Galatians 1:6-10",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "no_other_gospel"
+ },
+ {
+  "id": "ch-gospel_by_revelation",
+  "type": "which_chapter",
+  "question": "Which chapter? (narrative) A gospel received by revelation",
+  "answer": "Chapter 1. Paul's gospel is not man's gospel: he did not receive it from any man but through a revelation of Jesus Christ.",
+  "reference": "Galatians 1:11-12",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "gospel_by_revelation"
+ },
+ {
+  "id": "sec-gospel_by_revelation",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (narrative) A gospel received by revelation",
+  "answer": "Personal defense (1-2), chapter 1. Paul's gospel is not man's gospel: he did not receive it from any man but through a revelation of Jesus Christ.",
+  "reference": "Galatians 1:11-12",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "gospel_by_revelation"
+ },
+ {
+  "id": "ch-former_life",
+  "type": "which_chapter",
+  "question": "Which chapter? (narrative) Paul's former life in Judaism",
+  "answer": "Chapter 1. Paul violently persecuted the church of God and advanced in Judaism, extremely zealous for the traditions of his fathers.",
+  "reference": "Galatians 1:13-14",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "former_life"
+ },
+ {
+  "id": "sec-former_life",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (narrative) Paul's former life in Judaism",
+  "answer": "Personal defense (1-2), chapter 1. Paul violently persecuted the church of God and advanced in Judaism, extremely zealous for the traditions of his fathers.",
+  "reference": "Galatians 1:13-14",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "former_life"
+ },
+ {
+  "id": "ch-call_arabia",
+  "type": "which_chapter",
+  "question": "Which chapter? (narrative) Called by grace; off to Arabia and Damascus",
+  "answer": "Chapter 1. God, who set Paul apart before he was born, revealed his Son to him to preach among the Gentiles; Paul consulted no one but went away into Arabia and returned to Damascus.",
+  "reference": "Galatians 1:15-17",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "call_arabia"
+ },
+ {
+  "id": "sec-call_arabia",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (narrative) Called by grace; off to Arabia and Damascus",
+  "answer": "Personal defense (1-2), chapter 1. God, who set Paul apart before he was born, revealed his Son to him to preach among the Gentiles; Paul consulted no one but went away into Arabia and returned to Damascus.",
+  "reference": "Galatians 1:15-17",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "call_arabia"
+ },
+ {
+  "id": "ch-first_jerusalem",
+  "type": "which_chapter",
+  "question": "Which chapter? (narrative) First Jerusalem visit: fifteen days with Cephas",
+  "answer": "Chapter 1. After three years Paul went up to Jerusalem to visit Cephas for fifteen days, seeing no other apostle except James the Lord's brother.",
+  "reference": "Galatians 1:18-20",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "first_jerusalem"
+ },
+ {
+  "id": "sec-first_jerusalem",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (narrative) First Jerusalem visit: fifteen days with Cephas",
+  "answer": "Personal defense (1-2), chapter 1. After three years Paul went up to Jerusalem to visit Cephas for fifteen days, seeing no other apostle except James the Lord's brother.",
+  "reference": "Galatians 1:18-20",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "first_jerusalem"
+ },
+ {
+  "id": "ch-syria_cilicia",
+  "type": "which_chapter",
+  "question": "Which chapter? (narrative) In Syria and Cilicia; the Judean churches glorify God",
+  "answer": "Chapter 1. Paul went to Syria and Cilicia, still unknown in person to the churches of Judea, who heard that their former persecutor now preached the faith and glorified God.",
+  "reference": "Galatians 1:21-24",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "syria_cilicia"
+ },
+ {
+  "id": "sec-syria_cilicia",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (narrative) In Syria and Cilicia; the Judean churches glorify God",
+  "answer": "Personal defense (1-2), chapter 1. Paul went to Syria and Cilicia, still unknown in person to the churches of Judea, who heard that their former persecutor now preached the faith and glorified God.",
+  "reference": "Galatians 1:21-24",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "syria_cilicia"
+ },
+ {
+  "id": "ch-second_jerusalem",
+  "type": "which_chapter",
+  "question": "Which chapter? (narrative) Second Jerusalem visit with Barnabas and Titus",
+  "answer": "Chapter 2. After fourteen years Paul went up with Barnabas and Titus, set his gospel before the leaders privately, and refused to yield to false brothers; Titus, a Greek, was not forced to be circumcised.",
+  "reference": "Galatians 2:1-5",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "second_jerusalem"
+ },
+ {
+  "id": "sec-second_jerusalem",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (narrative) Second Jerusalem visit with Barnabas and Titus",
+  "answer": "Personal defense (1-2), chapter 2. After fourteen years Paul went up with Barnabas and Titus, set his gospel before the leaders privately, and refused to yield to false brothers; Titus, a Greek, was not forced to be circumcised.",
+  "reference": "Galatians 2:1-5",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "second_jerusalem"
+ },
+ {
+  "id": "ch-right_hand",
+  "type": "which_chapter",
+  "question": "Which chapter? (narrative) The pillars give the right hand of fellowship",
+  "answer": "Chapter 2. James, Cephas and John, the 'pillars', recognized that Paul was entrusted with the gospel to the uncircumcised and gave him and Barnabas the right hand of fellowship, asking only that they remember the poor.",
+  "reference": "Galatians 2:6-10",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "right_hand"
+ },
+ {
+  "id": "sec-right_hand",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (narrative) The pillars give the right hand of fellowship",
+  "answer": "Personal defense (1-2), chapter 2. James, Cephas and John, the 'pillars', recognized that Paul was entrusted with the gospel to the uncircumcised and gave him and Barnabas the right hand of fellowship, asking only that they remember the poor.",
+  "reference": "Galatians 2:6-10",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "right_hand"
+ },
+ {
+  "id": "ch-antioch",
+  "type": "which_chapter",
+  "question": "Which chapter? (narrative) Paul opposes Cephas at Antioch",
+  "answer": "Chapter 2. When Cephas withdrew from eating with Gentiles for fear of the circumcision party, and even Barnabas was led astray, Paul opposed him to his face before them all.",
+  "reference": "Galatians 2:11-14",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "antioch"
+ },
+ {
+  "id": "sec-antioch",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (narrative) Paul opposes Cephas at Antioch",
+  "answer": "Personal defense (1-2), chapter 2. When Cephas withdrew from eating with Gentiles for fear of the circumcision party, and even Barnabas was led astray, Paul opposed him to his face before them all.",
+  "reference": "Galatians 2:11-14",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "antioch"
+ },
+ {
+  "id": "ch-justified_by_faith",
+  "type": "which_chapter",
+  "question": "Which chapter? (argument) Justified by faith, not by works of the law",
+  "answer": "Chapter 2. Even Jews by birth know that a person is not justified by works of the law but through faith in Jesus Christ.",
+  "reference": "Galatians 2:15-16",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "justified_by_faith"
+ },
+ {
+  "id": "sec-justified_by_faith",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (argument) Justified by faith, not by works of the law",
+  "answer": "Personal defense (1-2), chapter 2. Even Jews by birth know that a person is not justified by works of the law but through faith in Jesus Christ.",
+  "reference": "Galatians 2:15-16",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "justified_by_faith"
+ },
+ {
+  "id": "ch-crucified_with_christ",
+  "type": "which_chapter",
+  "question": "Which chapter? (argument) Crucified with Christ",
+  "answer": "Chapter 2. Through the law Paul died to the law; he has been crucified with Christ and now lives by faith in the Son of God, for if righteousness came through the law, Christ died for no purpose.",
+  "reference": "Galatians 2:17-21",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "crucified_with_christ"
+ },
+ {
+  "id": "sec-crucified_with_christ",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (argument) Crucified with Christ",
+  "answer": "Personal defense (1-2), chapter 2. Through the law Paul died to the law; he has been crucified with Christ and now lives by faith in the Son of God, for if righteousness came through the law, Christ died for no purpose.",
+  "reference": "Galatians 2:17-21",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "crucified_with_christ"
+ },
+ {
+  "id": "ch-foolish_galatians",
+  "type": "which_chapter",
+  "question": "Which chapter? (argument) O foolish Galatians: the Spirit by hearing with faith",
+  "answer": "Chapter 3. Paul asks whether they received the Spirit by works of the law or by hearing with faith, and whether, having begun by the Spirit, they are now being perfected by the flesh.",
+  "reference": "Galatians 3:1-5",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "foolish_galatians"
+ },
+ {
+  "id": "sec-foolish_galatians",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (argument) O foolish Galatians: the Spirit by hearing with faith",
+  "answer": "Doctrinal argument (3-4), chapter 3. Paul asks whether they received the Spirit by works of the law or by hearing with faith, and whether, having begun by the Spirit, they are now being perfected by the flesh.",
+  "reference": "Galatians 3:1-5",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "foolish_galatians"
+ },
+ {
+  "id": "ch-abraham_believed",
+  "type": "which_chapter",
+  "question": "Which chapter? (illustration) Abraham believed God",
+  "answer": "Chapter 3. Abraham believed God and it was counted to him as righteousness, so those of faith are sons of Abraham, and in him all the nations are blessed.",
+  "reference": "Galatians 3:6-9",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "abraham_believed"
+ },
+ {
+  "id": "sec-abraham_believed",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (illustration) Abraham believed God",
+  "answer": "Doctrinal argument (3-4), chapter 3. Abraham believed God and it was counted to him as righteousness, so those of faith are sons of Abraham, and in him all the nations are blessed.",
+  "reference": "Galatians 3:6-9",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "abraham_believed"
+ },
+ {
+  "id": "ch-curse_of_law",
+  "type": "which_chapter",
+  "question": "Which chapter? (argument) Christ redeemed us from the curse of the law",
+  "answer": "Chapter 3. All who rely on works of the law are under a curse, but Christ became a curse for us ('hanged on a tree') so the blessing of Abraham might come to the Gentiles.",
+  "reference": "Galatians 3:10-14",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "curse_of_law"
+ },
+ {
+  "id": "sec-curse_of_law",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (argument) Christ redeemed us from the curse of the law",
+  "answer": "Doctrinal argument (3-4), chapter 3. All who rely on works of the law are under a curse, but Christ became a curse for us ('hanged on a tree') so the blessing of Abraham might come to the Gentiles.",
+  "reference": "Galatians 3:10-14",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "curse_of_law"
+ },
+ {
+  "id": "ch-covenant_example",
+  "type": "which_chapter",
+  "question": "Which chapter? (illustration) The covenant and Abraham's offspring",
+  "answer": "Chapter 3. Like a ratified human covenant, God's promise to Abraham and his offspring (singular, Christ) cannot be annulled by the law that came 430 years later.",
+  "reference": "Galatians 3:15-18",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "covenant_example"
+ },
+ {
+  "id": "sec-covenant_example",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (illustration) The covenant and Abraham's offspring",
+  "answer": "Doctrinal argument (3-4), chapter 3. Like a ratified human covenant, God's promise to Abraham and his offspring (singular, Christ) cannot be annulled by the law that came 430 years later.",
+  "reference": "Galatians 3:15-18",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "covenant_example"
+ },
+ {
+  "id": "ch-why_the_law",
+  "type": "which_chapter",
+  "question": "Which chapter? (argument) Why then the law?",
+  "answer": "Chapter 3. The law was added because of transgressions until the offspring should come, put in place through angels by an intermediary, and the Scripture imprisoned everything under sin.",
+  "reference": "Galatians 3:19-22",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "why_the_law"
+ },
+ {
+  "id": "sec-why_the_law",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (argument) Why then the law?",
+  "answer": "Doctrinal argument (3-4), chapter 3. The law was added because of transgressions until the offspring should come, put in place through angels by an intermediary, and the Scripture imprisoned everything under sin.",
+  "reference": "Galatians 3:19-22",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "why_the_law"
+ },
+ {
+  "id": "ch-guardian",
+  "type": "which_chapter",
+  "question": "Which chapter? (illustration) The law was our guardian",
+  "answer": "Chapter 3. Before faith came we were held captive under the law as under a guardian until Christ came; now that faith has come we are no longer under a guardian.",
+  "reference": "Galatians 3:23-25",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "guardian"
+ },
+ {
+  "id": "sec-guardian",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (illustration) The law was our guardian",
+  "answer": "Doctrinal argument (3-4), chapter 3. Before faith came we were held captive under the law as under a guardian until Christ came; now that faith has come we are no longer under a guardian.",
+  "reference": "Galatians 3:23-25",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "guardian"
+ },
+ {
+  "id": "ch-all_one",
+  "type": "which_chapter",
+  "question": "Which chapter? (argument) All one in Christ Jesus",
+  "answer": "Chapter 3. All who were baptized into Christ have put on Christ: there is neither Jew nor Greek, slave nor free, male and female, and all are Abraham's offspring and heirs.",
+  "reference": "Galatians 3:26-29",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "all_one"
+ },
+ {
+  "id": "sec-all_one",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (argument) All one in Christ Jesus",
+  "answer": "Doctrinal argument (3-4), chapter 3. All who were baptized into Christ have put on Christ: there is neither Jew nor Greek, slave nor free, male and female, and all are Abraham's offspring and heirs.",
+  "reference": "Galatians 3:26-29",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "all_one"
+ },
+ {
+  "id": "ch-heir_child",
+  "type": "which_chapter",
+  "question": "Which chapter? (illustration) The heir who is still a child",
+  "answer": "Chapter 4. An underage heir is no different from a slave, but in the fullness of time God sent his Son so we might receive adoption as sons and cry 'Abba! Father!'",
+  "reference": "Galatians 4:1-7",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "heir_child"
+ },
+ {
+  "id": "sec-heir_child",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (illustration) The heir who is still a child",
+  "answer": "Doctrinal argument (3-4), chapter 4. An underage heir is no different from a slave, but in the fullness of time God sent his Son so we might receive adoption as sons and cry 'Abba! Father!'",
+  "reference": "Galatians 4:1-7",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "heir_child"
+ },
+ {
+  "id": "ch-turn_back",
+  "type": "which_chapter",
+  "question": "Which chapter? (argument) Turning back to weak elementary principles",
+  "answer": "Chapter 4. Having come to know God, how can the Galatians turn back to the weak and worthless elementary principles, observing days, months, seasons and years?",
+  "reference": "Galatians 4:8-11",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "turn_back"
+ },
+ {
+  "id": "sec-turn_back",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (argument) Turning back to weak elementary principles",
+  "answer": "Doctrinal argument (3-4), chapter 4. Having come to know God, how can the Galatians turn back to the weak and worthless elementary principles, observing days, months, seasons and years?",
+  "reference": "Galatians 4:8-11",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "turn_back"
+ },
+ {
+  "id": "ch-bodily_ailment",
+  "type": "which_chapter",
+  "question": "Which chapter? (narrative) Paul's illness and the Galatians' first welcome",
+  "answer": "Chapter 4. Paul first preached to them because of a bodily ailment, and they received him as an angel of God and would have given him their eyes; has he now become their enemy by telling the truth?",
+  "reference": "Galatians 4:12-16",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "bodily_ailment"
+ },
+ {
+  "id": "sec-bodily_ailment",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (narrative) Paul's illness and the Galatians' first welcome",
+  "answer": "Doctrinal argument (3-4), chapter 4. Paul first preached to them because of a bodily ailment, and they received him as an angel of God and would have given him their eyes; has he now become their enemy by telling the truth?",
+  "reference": "Galatians 4:12-16",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "bodily_ailment"
+ },
+ {
+  "id": "ch-christ_formed",
+  "type": "which_chapter",
+  "question": "Which chapter? (exhortation) Until Christ is formed in you",
+  "answer": "Chapter 4. The agitators court the Galatians for no good purpose, while Paul is again in the anguish of childbirth until Christ is formed in his little children.",
+  "reference": "Galatians 4:17-20",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "christ_formed"
+ },
+ {
+  "id": "sec-christ_formed",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (exhortation) Until Christ is formed in you",
+  "answer": "Doctrinal argument (3-4), chapter 4. The agitators court the Galatians for no good purpose, while Paul is again in the anguish of childbirth until Christ is formed in his little children.",
+  "reference": "Galatians 4:17-20",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "christ_formed"
+ },
+ {
+  "id": "ch-hagar_sarah",
+  "type": "which_chapter",
+  "question": "Which chapter? (illustration) Hagar and Sarah: two covenants",
+  "answer": "Chapter 4. Abraham's two sons, by a slave woman and a free woman, picture two covenants: Hagar is Mount Sinai and the present Jerusalem in slavery, but the Jerusalem above is free and is our mother.",
+  "reference": "Galatians 4:21-27",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "hagar_sarah"
+ },
+ {
+  "id": "sec-hagar_sarah",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (illustration) Hagar and Sarah: two covenants",
+  "answer": "Doctrinal argument (3-4), chapter 4. Abraham's two sons, by a slave woman and a free woman, picture two covenants: Hagar is Mount Sinai and the present Jerusalem in slavery, but the Jerusalem above is free and is our mother.",
+  "reference": "Galatians 4:21-27",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "hagar_sarah"
+ },
+ {
+  "id": "ch-children_free",
+  "type": "which_chapter",
+  "question": "Which chapter? (illustration) Children of the free woman",
+  "answer": "Chapter 4. Like Isaac, believers are children of promise; Scripture says to cast out the slave woman and her son, for we are children of the free woman.",
+  "reference": "Galatians 4:28-31",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "children_free"
+ },
+ {
+  "id": "sec-children_free",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (illustration) Children of the free woman",
+  "answer": "Doctrinal argument (3-4), chapter 4. Like Isaac, believers are children of promise; Scripture says to cast out the slave woman and her son, for we are children of the free woman.",
+  "reference": "Galatians 4:28-31",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "children_free"
+ },
+ {
+  "id": "ch-stand_firm",
+  "type": "which_chapter",
+  "question": "Which chapter? (exhortation) Stand firm in freedom",
+  "answer": "Chapter 5. Christ has set us free, so do not submit again to a yoke of slavery: accepting circumcision obligates one to the whole law, but in Christ only faith working through love counts.",
+  "reference": "Galatians 5:1-6",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "stand_firm"
+ },
+ {
+  "id": "sec-stand_firm",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (exhortation) Stand firm in freedom",
+  "answer": "Practical living (5-6), chapter 5. Christ has set us free, so do not submit again to a yoke of slavery: accepting circumcision obligates one to the whole law, but in Christ only faith working through love counts.",
+  "reference": "Galatians 5:1-6",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "stand_firm"
+ },
+ {
+  "id": "ch-little_leaven",
+  "type": "which_chapter",
+  "question": "Which chapter? (exhortation) A little leaven",
+  "answer": "Chapter 5. The Galatians were running well until someone hindered them; a little leaven leavens the whole lump, and Paul wishes those who unsettle them would emasculate themselves.",
+  "reference": "Galatians 5:7-12",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "little_leaven"
+ },
+ {
+  "id": "sec-little_leaven",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (exhortation) A little leaven",
+  "answer": "Practical living (5-6), chapter 5. The Galatians were running well until someone hindered them; a little leaven leavens the whole lump, and Paul wishes those who unsettle them would emasculate themselves.",
+  "reference": "Galatians 5:7-12",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "little_leaven"
+ },
+ {
+  "id": "ch-serve_one_another",
+  "type": "which_chapter",
+  "question": "Which chapter? (exhortation) Called to freedom: serve one another",
+  "answer": "Chapter 5. Do not use freedom as an opportunity for the flesh but through love serve one another, for the whole law is fulfilled in 'love your neighbor as yourself.'",
+  "reference": "Galatians 5:13-15",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "serve_one_another"
+ },
+ {
+  "id": "sec-serve_one_another",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (exhortation) Called to freedom: serve one another",
+  "answer": "Practical living (5-6), chapter 5. Do not use freedom as an opportunity for the flesh but through love serve one another, for the whole law is fulfilled in 'love your neighbor as yourself.'",
+  "reference": "Galatians 5:13-15",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "serve_one_another"
+ },
+ {
+  "id": "ch-walk_by_spirit",
+  "type": "which_chapter",
+  "question": "Which chapter? (exhortation) Walk by the Spirit",
+  "answer": "Chapter 5. Walk by the Spirit and you will not gratify the desires of the flesh, for the flesh and the Spirit are opposed to each other.",
+  "reference": "Galatians 5:16-18",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "walk_by_spirit"
+ },
+ {
+  "id": "sec-walk_by_spirit",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (exhortation) Walk by the Spirit",
+  "answer": "Practical living (5-6), chapter 5. Walk by the Spirit and you will not gratify the desires of the flesh, for the flesh and the Spirit are opposed to each other.",
+  "reference": "Galatians 5:16-18",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "walk_by_spirit"
+ },
+ {
+  "id": "ch-works_of_flesh",
+  "type": "which_chapter",
+  "question": "Which chapter? (exhortation) The works of the flesh",
+  "answer": "Chapter 5. The works of the flesh, from sexual immorality and idolatry to envy and drunkenness, are evident, and those who do such things will not inherit the kingdom of God.",
+  "reference": "Galatians 5:19-21",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "works_of_flesh"
+ },
+ {
+  "id": "sec-works_of_flesh",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (exhortation) The works of the flesh",
+  "answer": "Practical living (5-6), chapter 5. The works of the flesh, from sexual immorality and idolatry to envy and drunkenness, are evident, and those who do such things will not inherit the kingdom of God.",
+  "reference": "Galatians 5:19-21",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "works_of_flesh"
+ },
+ {
+  "id": "ch-fruit_of_spirit",
+  "type": "which_chapter",
+  "question": "Which chapter? (exhortation) The fruit of the Spirit",
+  "answer": "Chapter 5. The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control; those who belong to Christ keep in step with the Spirit.",
+  "reference": "Galatians 5:22-26",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "fruit_of_spirit"
+ },
+ {
+  "id": "sec-fruit_of_spirit",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (exhortation) The fruit of the Spirit",
+  "answer": "Practical living (5-6), chapter 5. The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control; those who belong to Christ keep in step with the Spirit.",
+  "reference": "Galatians 5:22-26",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "fruit_of_spirit"
+ },
+ {
+  "id": "ch-bear_burdens",
+  "type": "which_chapter",
+  "question": "Which chapter? (exhortation) Bear one another's burdens",
+  "answer": "Chapter 6. Restore a brother caught in transgression in a spirit of gentleness, bear one another's burdens to fulfill the law of Christ, and let each test his own work.",
+  "reference": "Galatians 6:1-5",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "bear_burdens"
+ },
+ {
+  "id": "sec-bear_burdens",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (exhortation) Bear one another's burdens",
+  "answer": "Practical living (5-6), chapter 6. Restore a brother caught in transgression in a spirit of gentleness, bear one another's burdens to fulfill the law of Christ, and let each test his own work.",
+  "reference": "Galatians 6:1-5",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "bear_burdens"
+ },
+ {
+  "id": "ch-sowing_reaping",
+  "type": "which_chapter",
+  "question": "Which chapter? (exhortation) Sowing and reaping",
+  "answer": "Chapter 6. God is not mocked: whatever one sows he will reap, so let us not grow weary of doing good, especially to the household of faith.",
+  "reference": "Galatians 6:6-10",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "sowing_reaping"
+ },
+ {
+  "id": "sec-sowing_reaping",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (exhortation) Sowing and reaping",
+  "answer": "Practical living (5-6), chapter 6. God is not mocked: whatever one sows he will reap, so let us not grow weary of doing good, especially to the household of faith.",
+  "reference": "Galatians 6:6-10",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "sowing_reaping"
+ },
+ {
+  "id": "ch-boast_in_cross",
+  "type": "which_chapter",
+  "question": "Which chapter? (argument) Large letters: boast only in the cross",
+  "answer": "Chapter 6. Writing in large letters with his own hand, Paul says the circumcision party wants to boast in their flesh, but he boasts only in the cross, for what counts is a new creation.",
+  "reference": "Galatians 6:11-16",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "boast_in_cross"
+ },
+ {
+  "id": "sec-boast_in_cross",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (argument) Large letters: boast only in the cross",
+  "answer": "Practical living (5-6), chapter 6. Writing in large letters with his own hand, Paul says the circumcision party wants to boast in their flesh, but he boasts only in the cross, for what counts is a new creation.",
+  "reference": "Galatians 6:11-16",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "boast_in_cross"
+ },
+ {
+  "id": "ch-closing",
+  "type": "which_chapter",
+  "question": "Which chapter? (closing) Final greeting: the marks of Jesus",
+  "answer": "Chapter 6. Paul bears on his body the marks of Jesus and closes: the grace of our Lord Jesus Christ be with your spirit, brothers.",
+  "reference": "Galatians 6:17-18",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "closing"
+ },
+ {
+  "id": "sec-closing",
+  "type": "which_section",
+  "question": "Which section: Personal defense (1-2) or Doctrinal argument (3-4) or Practical living (5-6)? (closing) Final greeting: the marks of Jesus",
+  "answer": "Practical living (5-6), chapter 6. Paul bears on his body the marks of Jesus and closes: the grace of our Lord Jesus Christ be with your spirit, brothers.",
+  "reference": "Galatians 6:17-18",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "closing"
+ },
+ {
+  "id": "ctx-q_not_from_men",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “Paul, an apostle—not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead”",
+  "answer": "The opening words of the letter, stressing that his apostleship came directly from Christ and God, not from any human authority. (Chapter 1)",
+  "reference": "Galatians 1:1",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "q_not_from_men"
+ },
+ {
+  "id": "ctx-q_astonished",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel”",
+  "answer": "Skipping his usual thanksgiving, Paul goes straight to rebuking the Galatians for turning to another gospel. (Chapter 1)",
+  "reference": "Galatians 1:6",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "q_astonished"
+ },
+ {
+  "id": "ctx-q_angel_accursed",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed.”",
+  "answer": "Warning the Galatians against the different gospel being taught by those troubling them; he repeats the curse in the next verse. (Chapter 1)",
+  "reference": "Galatians 1:8",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "q_angel_accursed"
+ },
+ {
+  "id": "ctx-q_please_man",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “If I were still trying to please man, I would not be a servant of Christ.”",
+  "answer": "Defending himself against the charge that he softened the gospel to win human approval. (Chapter 1)",
+  "reference": "Galatians 1:10",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "q_please_man"
+ },
+ {
+  "id": "ctx-q_revelation",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ.”",
+  "answer": "Explaining the source of his gospel before recounting his life story. (Chapter 1)",
+  "reference": "Galatians 1:12",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "q_revelation"
+ },
+ {
+  "id": "ctx-q_persecuted_church",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “how I persecuted the church of God violently and tried to destroy it”",
+  "answer": "Recalling his former life in Judaism, before God called him. (Chapter 1)",
+  "reference": "Galatians 1:13",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "q_persecuted_church"
+ },
+ {
+  "id": "ctx-q_do_not_lie",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “In what I am writing to you, before God, I do not lie!”",
+  "answer": "An oath in the middle of describing his first Jerusalem visit, when he saw only Cephas and James. (Chapter 1)",
+  "reference": "Galatians 1:20",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "q_do_not_lie"
+ },
+ {
+  "id": "who-q_judea_heard",
+  "type": "who_said",
+  "question": "Who said: “He who used to persecute us is now preaching the faith he once tried to destroy.”",
+  "answer": "The churches of Judea (what they kept hearing about Paul). While Paul was in Syria and Cilicia, still unknown in person to the Judean churches; they glorified God because of him.",
+  "reference": "Galatians 1:23",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "q_judea_heard"
+ },
+ {
+  "id": "ctx-q_false_brothers",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “to them we did not yield in submission even for a moment, so that the truth of the gospel might be preserved for you”",
+  "answer": "About the false brothers who slipped in to spy out their freedom during his second Jerusalem visit, when Titus was not forced to be circumcised. (Chapter 2)",
+  "reference": "Galatians 2:5",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "q_false_brothers"
+ },
+ {
+  "id": "ctx-q_no_partiality",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “what they were makes no difference to me; God shows no partiality”",
+  "answer": "An aside about the leaders in Jerusalem who \"seemed to be influential\"; they added nothing to his gospel. (Chapter 2)",
+  "reference": "Galatians 2:6",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "q_no_partiality"
+ },
+ {
+  "id": "ctx-q_remember_poor",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “Only, they asked us to remember the poor, the very thing I was eager to do.”",
+  "answer": "The one request James, Cephas and John made when they gave Paul and Barnabas the right hand of fellowship. (Chapter 2)",
+  "reference": "Galatians 2:10",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "q_remember_poor"
+ },
+ {
+  "id": "ctx-q_opposed_face",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “But when Cephas came to Antioch, I opposed him to his face, because he stood condemned.”",
+  "answer": "Introducing the incident at Antioch where Peter (Cephas) withdrew from eating with Gentile believers. (Chapter 2)",
+  "reference": "Galatians 2:11",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "q_opposed_face"
+ },
+ {
+  "id": "who-q_to_cephas",
+  "type": "who_said",
+  "question": "Who said: “If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?”",
+  "answer": "Paul, to Cephas (Peter) \"before them all\". At Antioch, after Peter drew back from eating with the Gentiles when men came from James, and even Barnabas was led astray. (Peter himself has no recorded words in Galatians.)",
+  "reference": "Galatians 2:14",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "q_to_cephas"
+ },
+ {
+  "id": "ctx-q_not_by_works",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “a person is not justified by works of the law but through faith in Jesus Christ”",
+  "answer": "Continuing from his rebuke of Peter at Antioch: even Jews by birth know this. (Chapter 2)",
+  "reference": "Galatians 2:16",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "q_not_by_works"
+ },
+ {
+  "id": "ctx-q_crucified",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “I have been crucified with Christ. It is no longer I who live, but Christ who lives in me.”",
+  "answer": "Explaining that through the law he died to the law so that he might live to God. (Chapter 2)",
+  "reference": "Galatians 2:20",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "q_crucified"
+ },
+ {
+  "id": "ctx-q_no_purpose",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “for if righteousness were through the law, then Christ died for no purpose”",
+  "answer": "The conclusion of his argument after the Antioch episode: he does not nullify the grace of God. (Chapter 2)",
+  "reference": "Galatians 2:21",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "q_no_purpose"
+ },
+ {
+  "id": "ctx-q_foolish",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “O foolish Galatians! Who has bewitched you?”",
+  "answer": "Opening his doctrinal argument: Christ was publicly portrayed as crucified before their eyes. (Chapter 3)",
+  "reference": "Galatians 3:1",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_foolish"
+ },
+ {
+  "id": "ctx-q_begun_spirit",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh?”",
+  "answer": "Asking whether they received the Spirit by works of the law or by hearing with faith. (Chapter 3)",
+  "reference": "Galatians 3:3",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_begun_spirit"
+ },
+ {
+  "id": "ot-q_gen15_6",
+  "type": "ot_passage",
+  "question": "Which Old Testament passage is Paul quoting? “believed God, and it was counted to him as righteousness”",
+  "answer": "Genesis 15:6. Paul cites Abraham as proof that righteousness comes by faith: those of faith are the sons of Abraham.",
+  "reference": "Galatians 3:6",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_gen15_6"
+ },
+ {
+  "id": "who-q_gen12_3",
+  "type": "who_said",
+  "question": "Who said: “In you shall all the nations be blessed.”",
+  "answer": "God, speaking to Abraham (the Scripture \"preached the gospel beforehand to Abraham\"). Paul says the Scripture foresaw that God would justify the Gentiles by faith.",
+  "reference": "Galatians 3:8",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_gen12_3"
+ },
+ {
+  "id": "ot-q_gen12_3",
+  "type": "ot_passage",
+  "question": "Which Old Testament passage is Paul quoting? “In you shall all the nations be blessed.”",
+  "answer": "Genesis 12:3. Paul says the Scripture foresaw that God would justify the Gentiles by faith.",
+  "reference": "Galatians 3:8",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_gen12_3"
+ },
+ {
+  "id": "who-q_deut27_26",
+  "type": "who_said",
+  "question": "Who said: “Cursed be everyone who does not abide by all things written in the Book of the Law, and do them.”",
+  "answer": "Moses, in the curses of the Law. Paul argues that all who rely on works of the law are under a curse.",
+  "reference": "Galatians 3:10",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_deut27_26"
+ },
+ {
+  "id": "ot-q_deut27_26",
+  "type": "ot_passage",
+  "question": "Which Old Testament passage is Paul quoting? “Cursed be everyone who does not abide by all things written in the Book of the Law, and do them.”",
+  "answer": "Deuteronomy 27:26. Paul argues that all who rely on works of the law are under a curse.",
+  "reference": "Galatians 3:10",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_deut27_26"
+ },
+ {
+  "id": "who-q_hab2_4",
+  "type": "who_said",
+  "question": "Who said: “The righteous shall live by faith.”",
+  "answer": "God, answering the prophet Habakkuk. Paul shows that no one is justified before God by the law.",
+  "reference": "Galatians 3:11",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_hab2_4"
+ },
+ {
+  "id": "ot-q_hab2_4",
+  "type": "ot_passage",
+  "question": "Which Old Testament passage is Paul quoting? “The righteous shall live by faith.”",
+  "answer": "Habakkuk 2:4. Paul shows that no one is justified before God by the law.",
+  "reference": "Galatians 3:11",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_hab2_4"
+ },
+ {
+  "id": "who-q_lev18_5",
+  "type": "who_said",
+  "question": "Who said: “The one who does them shall live by them.”",
+  "answer": "God, giving the law through Moses. Paul contrasts the law with faith: the law is not of faith.",
+  "reference": "Galatians 3:12",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_lev18_5"
+ },
+ {
+  "id": "ot-q_lev18_5",
+  "type": "ot_passage",
+  "question": "Which Old Testament passage is Paul quoting? “The one who does them shall live by them.”",
+  "answer": "Leviticus 18:5. Paul contrasts the law with faith: the law is not of faith.",
+  "reference": "Galatians 3:12",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_lev18_5"
+ },
+ {
+  "id": "who-q_deut21_23",
+  "type": "who_said",
+  "question": "Who said: “Cursed is everyone who is hanged on a tree”",
+  "answer": "Moses, in the Law. Christ redeemed us from the curse of the law by becoming a curse for us.",
+  "reference": "Galatians 3:13",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_deut21_23"
+ },
+ {
+  "id": "ot-q_deut21_23",
+  "type": "ot_passage",
+  "question": "Which Old Testament passage is Paul quoting? “Cursed is everyone who is hanged on a tree”",
+  "answer": "Deuteronomy 21:23. Christ redeemed us from the curse of the law by becoming a curse for us.",
+  "reference": "Galatians 3:13",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_deut21_23"
+ },
+ {
+  "id": "who-q_your_offspring",
+  "type": "who_said",
+  "question": "Who said: “And to your offspring”",
+  "answer": "God, promising to Abraham. Paul notes the promise says \"offspring,\" not \"offsprings,\" referring to one: Christ.",
+  "reference": "Galatians 3:16",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_your_offspring"
+ },
+ {
+  "id": "ot-q_your_offspring",
+  "type": "ot_passage",
+  "question": "Which Old Testament passage is Paul quoting? “And to your offspring”",
+  "answer": "Genesis 12:7 (also 13:15; 22:18). Paul notes the promise says \"offspring,\" not \"offsprings,\" referring to one: Christ.",
+  "reference": "Galatians 3:16",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_your_offspring"
+ },
+ {
+  "id": "ctx-q_430_years",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “the law, which came 430 years afterward, does not annul a covenant previously ratified by God”",
+  "answer": "Using the human example of a ratified covenant to show that the law cannot cancel the promise to Abraham. (Chapter 3)",
+  "reference": "Galatians 3:17",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_430_years"
+ },
+ {
+  "id": "ctx-q_why_law",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “Why then the law? It was added because of transgressions, until the offspring should come to whom the promise had been made”",
+  "answer": "Answering the obvious objection after arguing that the inheritance comes by promise, not by law. (Chapter 3)",
+  "reference": "Galatians 3:19",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_why_law"
+ },
+ {
+  "id": "ctx-q_guardian",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “So then, the law was our guardian until Christ came, in order that we might be justified by faith.”",
+  "answer": "Describing the law as a temporary guardian; now that faith has come we are no longer under it. (Chapter 3)",
+  "reference": "Galatians 3:24",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_guardian"
+ },
+ {
+  "id": "ctx-q_neither_jew",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus.”",
+  "answer": "All who were baptized into Christ have put on Christ and are sons of God through faith. (Chapter 3)",
+  "reference": "Galatians 3:28",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_neither_jew"
+ },
+ {
+  "id": "ctx-q_fullness_time",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “But when the fullness of time had come, God sent forth his Son, born of woman, born under the law”",
+  "answer": "Following the illustration of the heir who is still a child, under guardians until the date set by his father. (Chapter 4)",
+  "reference": "Galatians 4:4",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_fullness_time"
+ },
+ {
+  "id": "who-q_abba",
+  "type": "who_said",
+  "question": "Who said: “Abba! Father!”",
+  "answer": "The Spirit of God's Son, crying in our hearts. Because believers are sons, God has sent the Spirit of his Son into their hearts.",
+  "reference": "Galatians 4:6",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_abba"
+ },
+ {
+  "id": "ctx-q_days_months",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “You observe days and months and seasons and years!”",
+  "answer": "Rebuking the Galatians for turning back to the weak and worthless elementary principles of the world. (Chapter 4)",
+  "reference": "Galatians 4:10",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_days_months"
+ },
+ {
+  "id": "ctx-q_gouged_eyes",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “if possible, you would have gouged out your eyes and given them to me”",
+  "answer": "Remembering how warmly they welcomed him when he first preached to them because of a bodily ailment. (Chapter 4)",
+  "reference": "Galatians 4:15",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_gouged_eyes"
+ },
+ {
+  "id": "ctx-q_enemy_truth",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “Have I then become your enemy by telling you the truth?”",
+  "answer": "Contrasting their first welcome with their present attitude toward him. (Chapter 4)",
+  "reference": "Galatians 4:16",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_enemy_truth"
+ },
+ {
+  "id": "ctx-q_anguish",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “my little children, for whom I am again in the anguish of childbirth until Christ is formed in you!”",
+  "answer": "A tender personal appeal; he is perplexed about them and wishes he could be present. (Chapter 4)",
+  "reference": "Galatians 4:19",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_anguish"
+ },
+ {
+  "id": "who-q_isa54_1",
+  "type": "who_said",
+  "question": "Who said: “Rejoice, O barren one who does not bear; break forth and cry aloud, you who are not in labor!”",
+  "answer": "The prophet Isaiah. Paul applies it to the free \"Jerusalem above,\" our mother, in his allegory of Hagar and Sarah.",
+  "reference": "Galatians 4:27",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_isa54_1"
+ },
+ {
+  "id": "ot-q_isa54_1",
+  "type": "ot_passage",
+  "question": "Which Old Testament passage is Paul quoting? “Rejoice, O barren one who does not bear; break forth and cry aloud, you who are not in labor!”",
+  "answer": "Isaiah 54:1. Paul applies it to the free \"Jerusalem above,\" our mother, in his allegory of Hagar and Sarah.",
+  "reference": "Galatians 4:27",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_isa54_1"
+ },
+ {
+  "id": "who-q_gen21_10",
+  "type": "who_said",
+  "question": "Who said: “Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman.”",
+  "answer": "Sarah, demanding that Abraham send away Hagar and Ishmael. Paul quotes it as \"the Scripture\" to conclude the Hagar and Sarah allegory: we are children of the free woman.",
+  "reference": "Galatians 4:30",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_gen21_10"
+ },
+ {
+  "id": "ot-q_gen21_10",
+  "type": "ot_passage",
+  "question": "Which Old Testament passage is Paul quoting? “Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman.”",
+  "answer": "Genesis 21:10. Paul quotes it as \"the Scripture\" to conclude the Hagar and Sarah allegory: we are children of the free woman.",
+  "reference": "Galatians 4:30",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "q_gen21_10"
+ },
+ {
+  "id": "ctx-q_for_freedom",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery.”",
+  "answer": "The turn from argument to application, right after the allegory of the slave woman and the free woman. (Chapter 5)",
+  "reference": "Galatians 5:1",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_for_freedom"
+ },
+ {
+  "id": "ctx-q_fallen_grace",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “You are severed from Christ, you who would be justified by the law; you have fallen away from grace.”",
+  "answer": "Warning those considering circumcision that it obligates them to keep the whole law. (Chapter 5)",
+  "reference": "Galatians 5:4",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_fallen_grace"
+ },
+ {
+  "id": "ctx-q_faith_love",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love.”",
+  "answer": "Part of his warning against accepting circumcision. (Chapter 5)",
+  "reference": "Galatians 5:6",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_faith_love"
+ },
+ {
+  "id": "ctx-q_running_well",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “You were running well. Who hindered you from obeying the truth?”",
+  "answer": "Lamenting the influence of the agitators on the Galatians. (Chapter 5)",
+  "reference": "Galatians 5:7",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_running_well"
+ },
+ {
+  "id": "ctx-q_leaven",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “A little leaven leavens the whole lump.”",
+  "answer": "A proverb warning how the false teaching spreads through the whole church. (Chapter 5)",
+  "reference": "Galatians 5:9",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_leaven"
+ },
+ {
+  "id": "ctx-q_emasculate",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “I wish those who unsettle you would emasculate themselves!”",
+  "answer": "A sharp outburst against those insisting the Galatians be circumcised. (Chapter 5)",
+  "reference": "Galatians 5:12",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_emasculate"
+ },
+ {
+  "id": "who-q_lev19_18",
+  "type": "who_said",
+  "question": "Who said: “You shall love your neighbor as yourself.”",
+  "answer": "God, giving the law through Moses. Paul says the whole law is fulfilled in this one word, so use freedom to serve one another through love.",
+  "reference": "Galatians 5:14",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_lev19_18"
+ },
+ {
+  "id": "ot-q_lev19_18",
+  "type": "ot_passage",
+  "question": "Which Old Testament passage is Paul quoting? “You shall love your neighbor as yourself.”",
+  "answer": "Leviticus 19:18. Paul says the whole law is fulfilled in this one word, so use freedom to serve one another through love.",
+  "reference": "Galatians 5:14",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_lev19_18"
+ },
+ {
+  "id": "ctx-q_walk_spirit",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “But I say, walk by the Spirit, and you will not gratify the desires of the flesh.”",
+  "answer": "Explaining how to live in freedom without giving opportunity to the flesh. (Chapter 5)",
+  "reference": "Galatians 5:16",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_walk_spirit"
+ },
+ {
+  "id": "ctx-q_fruit",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness”",
+  "answer": "Contrasted with the works of the flesh listed just before. (Chapter 5)",
+  "reference": "Galatians 5:22",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_fruit"
+ },
+ {
+  "id": "ctx-q_keep_in_step",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “If we live by the Spirit, let us also keep in step with the Spirit.”",
+  "answer": "Following the list of the fruit of the Spirit: those who belong to Christ have crucified the flesh. (Chapter 5)",
+  "reference": "Galatians 5:25",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "q_keep_in_step"
+ },
+ {
+  "id": "ctx-q_bear_burdens",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “Bear one another's burdens, and so fulfill the law of Christ.”",
+  "answer": "Instructions on restoring a brother caught in transgression in a spirit of gentleness. (Chapter 6)",
+  "reference": "Galatians 6:2",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "q_bear_burdens"
+ },
+ {
+  "id": "ctx-q_not_mocked",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “Do not be deceived: God is not mocked, for whatever one sows, that will he also reap.”",
+  "answer": "Teaching on sharing with teachers and sowing to the Spirit rather than to the flesh. (Chapter 6)",
+  "reference": "Galatians 6:7",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "q_not_mocked"
+ },
+ {
+  "id": "ctx-q_not_weary",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “And let us not grow weary of doing good, for in due season we will reap, if we do not give up.”",
+  "answer": "Encouragement to keep sowing to the Spirit and do good to everyone. (Chapter 6)",
+  "reference": "Galatians 6:9",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "q_not_weary"
+ },
+ {
+  "id": "ctx-q_large_letters",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “See with what large letters I am writing to you with my own hand.”",
+  "answer": "Taking the pen himself for the closing section of the letter. (Chapter 6)",
+  "reference": "Galatians 6:11",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "q_large_letters"
+ },
+ {
+  "id": "ctx-q_boast_cross",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “But far be it from me to boast except in the cross of our Lord Jesus Christ”",
+  "answer": "Contrasted with the circumcision party, who want to boast in the Galatians' flesh. (Chapter 6)",
+  "reference": "Galatians 6:14",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "q_boast_cross"
+ },
+ {
+  "id": "ctx-q_new_creation",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “For neither circumcision counts for anything, nor uncircumcision, but a new creation.”",
+  "answer": "The closing summary of the letter, written in his own hand. (Chapter 6)",
+  "reference": "Galatians 6:15",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "q_new_creation"
+ },
+ {
+  "id": "ctx-q_marks",
+  "type": "context",
+  "question": "What was the context? Paul wrote: “From now on let no one cause me trouble, for I bear on my body the marks of Jesus.”",
+  "answer": "Paul's final words before the benediction, pointing to the scars of his sufferings. (Chapter 6)",
+  "reference": "Galatians 6:17",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "q_marks"
+ },
+ {
+  "id": "fill-v1_4",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 1:4): “who gave himself for our sins to deliver us from the ________________, according to the will of our God and Father,”",
+  "answer": "present evil age. Full verse: “who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father,”",
+  "reference": "Galatians 1:4",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "v1_4",
+  "blanks": [
+   "present evil age"
+  ]
+ },
+ {
+  "id": "fill-v1_6",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 1:6): “I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a ________________—”",
+  "answer": "different gospel. Full verse: “I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel—”",
+  "reference": "Galatians 1:6",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "v1_6",
+  "blanks": [
+   "different gospel"
+  ]
+ },
+ {
+  "id": "fill-v1_8",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 1:8): “But even if we or an ________________ should preach to you a gospel contrary to the one we preached to you, let him be ________.”",
+  "answer": "angel from heaven / accursed. Full verse: “But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed.”",
+  "reference": "Galatians 1:8",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "v1_8",
+  "blanks": [
+   "angel from heaven",
+   "accursed"
+  ]
+ },
+ {
+  "id": "fill-v1_10",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 1:10): “For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a ________________.”",
+  "answer": "servant of Christ. Full verse: “For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ.”",
+  "reference": "Galatians 1:10",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "v1_10",
+  "blanks": [
+   "servant of Christ"
+  ]
+ },
+ {
+  "id": "fill-v1_11",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 1:11): “For I would have you know, brothers, that the gospel that was preached by me is not ____________.”",
+  "answer": "man's gospel. Full verse: “For I would have you know, brothers, that the gospel that was preached by me is not man's gospel.”",
+  "reference": "Galatians 1:11",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "v1_11",
+  "blanks": [
+   "man's gospel"
+  ]
+ },
+ {
+  "id": "fill-v1_12",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 1:12): “For I did not receive it from any man, nor was I taught it, but I received it through a __________ of Jesus Christ.”",
+  "answer": "revelation. Full verse: “For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ.”",
+  "reference": "Galatians 1:12",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "v1_12",
+  "blanks": [
+   "revelation"
+  ]
+ },
+ {
+  "id": "fill-v1_17",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 1:17): “nor did I go up to Jerusalem to those who were apostles before me, but I went away into ______, and returned again to ________.”",
+  "answer": "Arabia / Damascus. Full verse: “nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.”",
+  "reference": "Galatians 1:17",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "v1_17",
+  "blanks": [
+   "Arabia",
+   "Damascus"
+  ]
+ },
+ {
+  "id": "fill-v1_18",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 1:18): “Then after ___________ I went up to Jerusalem to visit ______ and remained with him ____________.”",
+  "answer": "three years / Cephas / fifteen days. Full verse: “Then after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days.”",
+  "reference": "Galatians 1:18",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "v1_18",
+  "blanks": [
+   "three years",
+   "Cephas",
+   "fifteen days"
+  ]
+ },
+ {
+  "id": "fill-v1_19",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 1:19): “But I saw none of the other apostles except ______ the Lord's brother.”",
+  "answer": "James. Full verse: “But I saw none of the other apostles except James the Lord's brother.”",
+  "reference": "Galatians 1:19",
+  "chapter": 1,
+  "section": "Personal defense (1-2)",
+  "source": "v1_19",
+  "blanks": [
+   "James"
+  ]
+ },
+ {
+  "id": "fill-v2_1",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 2:1): “Then after ______________ I went up again to Jerusalem with ________, taking ______ along with me.”",
+  "answer": "fourteen years / Barnabas / Titus. Full verse: “Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus along with me.”",
+  "reference": "Galatians 2:1",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "v2_1",
+  "blanks": [
+   "fourteen years",
+   "Barnabas",
+   "Titus"
+  ]
+ },
+ {
+  "id": "fill-v2_9",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 2:9): “and when James and Cephas and John, who seemed to be _______, perceived the grace that was given to me, they gave the ________________ to Barnabas and me, that we should go to the Gentiles and they to the circumcised.”",
+  "answer": "pillars / right hand of fellowship. Full verse: “and when James and Cephas and John, who seemed to be pillars, perceived the grace that was given to me, they gave the right hand of fellowship to Barnabas and me, that we should go to the Gentiles and they to the circumcised.”",
+  "reference": "Galatians 2:9",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "v2_9",
+  "blanks": [
+   "pillars",
+   "right hand of fellowship"
+  ]
+ },
+ {
+  "id": "fill-v2_10",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 2:10): “Only, they asked us to ________________, the very thing I was eager to do.”",
+  "answer": "remember the poor. Full verse: “Only, they asked us to remember the poor, the very thing I was eager to do.”",
+  "reference": "Galatians 2:10",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "v2_10",
+  "blanks": [
+   "remember the poor"
+  ]
+ },
+ {
+  "id": "fill-v2_11",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 2:11): “But when Cephas came to _______, I opposed him ___________, because he stood condemned.”",
+  "answer": "Antioch / to his face. Full verse: “But when Cephas came to Antioch, I opposed him to his face, because he stood condemned.”",
+  "reference": "Galatians 2:11",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "v2_11",
+  "blanks": [
+   "Antioch",
+   "to his face"
+  ]
+ },
+ {
+  "id": "fill-v2_16",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 2:16): “yet we know that a person is not justified by ________________ but through ________________, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.”",
+  "answer": "works of the law / faith in Jesus Christ. Full verse: “yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.”",
+  "reference": "Galatians 2:16",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "v2_16",
+  "blanks": [
+   "works of the law",
+   "faith in Jesus Christ"
+  ]
+ },
+ {
+  "id": "fill-v2_19",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 2:19): “For through the law I _______________, so that I might live to God.”",
+  "answer": "died to the law. Full verse: “For through the law I died to the law, so that I might live to God.”",
+  "reference": "Galatians 2:19",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "v2_19",
+  "blanks": [
+   "died to the law"
+  ]
+ },
+ {
+  "id": "fill-v2_20",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 2:20): “I have been ________________. It is no longer I who live, but ________________. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.”",
+  "answer": "crucified with Christ / Christ who lives in me. Full verse: “I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.”",
+  "reference": "Galatians 2:20",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "v2_20",
+  "blanks": [
+   "crucified with Christ",
+   "Christ who lives in me"
+  ]
+ },
+ {
+  "id": "fill-v2_21",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 2:21): “I do not nullify the grace of God, for if righteousness were through the law, then Christ died for __________.”",
+  "answer": "no purpose. Full verse: “I do not nullify the grace of God, for if righteousness were through the law, then Christ died for no purpose.”",
+  "reference": "Galatians 2:21",
+  "chapter": 2,
+  "section": "Personal defense (1-2)",
+  "source": "v2_21",
+  "blanks": [
+   "no purpose"
+  ]
+ },
+ {
+  "id": "fill-v3_1",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 3:1): “O ________________! Who has _________ you? It was before your eyes that Jesus Christ was publicly portrayed as crucified.”",
+  "answer": "foolish Galatians / bewitched. Full verse: “O foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly portrayed as crucified.”",
+  "reference": "Galatians 3:1",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_1",
+  "blanks": [
+   "foolish Galatians",
+   "bewitched"
+  ]
+ },
+ {
+  "id": "fill-v3_2",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 3:2): “Let me ask you only this: Did you receive the Spirit by works of the law or by ________________?”",
+  "answer": "hearing with faith. Full verse: “Let me ask you only this: Did you receive the Spirit by works of the law or by hearing with faith?”",
+  "reference": "Galatians 3:2",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_2",
+  "blanks": [
+   "hearing with faith"
+  ]
+ },
+ {
+  "id": "fill-v3_3",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 3:3): “Are you so foolish? Having begun by the ______, are you now being perfected by the ______?”",
+  "answer": "Spirit / flesh. Full verse: “Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh?”",
+  "reference": "Galatians 3:3",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_3",
+  "blanks": [
+   "Spirit",
+   "flesh"
+  ]
+ },
+ {
+  "id": "fill-v3_6",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 3:6): “just as Abraham “believed God, and it was ________________”?”",
+  "answer": "counted to him as righteousness. Full verse: “just as Abraham “believed God, and it was counted to him as righteousness”?”",
+  "reference": "Galatians 3:6",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_6",
+  "blanks": [
+   "counted to him as righteousness"
+  ]
+ },
+ {
+  "id": "fill-v3_7",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 3:7): “Know then that it is those of faith who are the _______________.”",
+  "answer": "sons of Abraham. Full verse: “Know then that it is those of faith who are the sons of Abraham.”",
+  "reference": "Galatians 3:7",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_7",
+  "blanks": [
+   "sons of Abraham"
+  ]
+ },
+ {
+  "id": "fill-v3_8",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 3:8): “And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, “In you shall _______________ be blessed.””",
+  "answer": "all the nations. Full verse: “And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, “In you shall all the nations be blessed.””",
+  "reference": "Galatians 3:8",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_8",
+  "blanks": [
+   "all the nations"
+  ]
+ },
+ {
+  "id": "fill-v3_11",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 3:11): “Now it is evident that no one is justified before God by the law, for “________________.””",
+  "answer": "The righteous shall live by faith. Full verse: “Now it is evident that no one is justified before God by the law, for “The righteous shall live by faith.””",
+  "reference": "Galatians 3:11",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_11",
+  "blanks": [
+   "The righteous shall live by faith"
+  ]
+ },
+ {
+  "id": "fill-v3_13",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 3:13): “Christ redeemed us from the ________________ by becoming a curse for us—for it is written, “Cursed is everyone who is ________________”—”",
+  "answer": "curse of the law / hanged on a tree. Full verse: “Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, “Cursed is everyone who is hanged on a tree”—”",
+  "reference": "Galatians 3:13",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_13",
+  "blanks": [
+   "curse of the law",
+   "hanged on a tree"
+  ]
+ },
+ {
+  "id": "fill-v3_14",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 3:14): “so that in Christ Jesus the ________________ might come to the Gentiles, so that we might receive the _______________ through faith.”",
+  "answer": "blessing of Abraham / promised Spirit. Full verse: “so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith.”",
+  "reference": "Galatians 3:14",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_14",
+  "blanks": [
+   "blessing of Abraham",
+   "promised Spirit"
+  ]
+ },
+ {
+  "id": "fill-v3_16",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 3:16): “Now the promises were made to Abraham and to his offspring. It does not say, “And to offsprings,” referring to many, but referring to one, “And to your offspring,” _____________.”",
+  "answer": "who is Christ. Full verse: “Now the promises were made to Abraham and to his offspring. It does not say, “And to offsprings,” referring to many, but referring to one, “And to your offspring,” who is Christ.”",
+  "reference": "Galatians 3:16",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_16",
+  "blanks": [
+   "who is Christ"
+  ]
+ },
+ {
+  "id": "fill-v3_17",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 3:17): “This is what I mean: the law, which came _________ afterward, does not annul a covenant previously ratified by God, so as to make the promise void.”",
+  "answer": "430 years. Full verse: “This is what I mean: the law, which came 430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void.”",
+  "reference": "Galatians 3:17",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_17",
+  "blanks": [
+   "430 years"
+  ]
+ },
+ {
+  "id": "fill-v3_19",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 3:19): “Why then the law? It was added ________________, until the offspring should come to whom the promise had been made, and it was put in place through ______ by an intermediary.”",
+  "answer": "because of transgressions / angels. Full verse: “Why then the law? It was added because of transgressions, until the offspring should come to whom the promise had been made, and it was put in place through angels by an intermediary.”",
+  "reference": "Galatians 3:19",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_19",
+  "blanks": [
+   "because of transgressions",
+   "angels"
+  ]
+ },
+ {
+  "id": "fill-v3_24",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 3:24): “So then, the law was our ________ until Christ came, in order that we might be justified by faith.”",
+  "answer": "guardian. Full verse: “So then, the law was our guardian until Christ came, in order that we might be justified by faith.”",
+  "reference": "Galatians 3:24",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_24",
+  "blanks": [
+   "guardian"
+  ]
+ },
+ {
+  "id": "fill-v3_26",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 3:26): “for in Christ Jesus you are all ___________, through faith.”",
+  "answer": "sons of God. Full verse: “for in Christ Jesus you are all sons of God, through faith.”",
+  "reference": "Galatians 3:26",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_26",
+  "blanks": [
+   "sons of God"
+  ]
+ },
+ {
+  "id": "fill-v3_27",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 3:27): “For as many of you as were baptized into Christ have _____________.”",
+  "answer": "put on Christ. Full verse: “For as many of you as were baptized into Christ have put on Christ.”",
+  "reference": "Galatians 3:27",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_27",
+  "blanks": [
+   "put on Christ"
+  ]
+ },
+ {
+  "id": "fill-v3_28",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 3:28): “There is neither _____________, there is neither ______________, there is no _______________, for you are all one in Christ Jesus.”",
+  "answer": "Jew nor Greek / slave nor free / male and female. Full verse: “There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus.”",
+  "reference": "Galatians 3:28",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_28",
+  "blanks": [
+   "Jew nor Greek",
+   "slave nor free",
+   "male and female"
+  ]
+ },
+ {
+  "id": "fill-v3_29",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 3:29): “And if you are Christ's, then you are ________________, ______ according to promise.”",
+  "answer": "Abraham's offspring / heirs. Full verse: “And if you are Christ's, then you are Abraham's offspring, heirs according to promise.”",
+  "reference": "Galatians 3:29",
+  "chapter": 3,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v3_29",
+  "blanks": [
+   "Abraham's offspring",
+   "heirs"
+  ]
+ },
+ {
+  "id": "fill-v4_4_5",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 4:4-5): “But when the ________________ had come, God sent forth his Son, _____________, born under the law, to redeem those who were under the law, so that we might receive ________________.”",
+  "answer": "fullness of time / born of woman / adoption as sons. Full verse: “But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons.”",
+  "reference": "Galatians 4:4-5",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v4_4_5",
+  "blanks": [
+   "fullness of time",
+   "born of woman",
+   "adoption as sons"
+  ]
+ },
+ {
+  "id": "fill-v4_6",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 4:6): “And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “_____________””",
+  "answer": "Abba! Father!. Full verse: “And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!””",
+  "reference": "Galatians 4:6",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v4_6",
+  "blanks": [
+   "Abba! Father!"
+  ]
+ },
+ {
+  "id": "fill-v4_7",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 4:7): “So you are no longer a slave, but a son, and if a son, then ________________.”",
+  "answer": "an heir through God. Full verse: “So you are no longer a slave, but a son, and if a son, then an heir through God.”",
+  "reference": "Galatians 4:7",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v4_7",
+  "blanks": [
+   "an heir through God"
+  ]
+ },
+ {
+  "id": "fill-v4_9",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 4:9): “But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless ________________ of the world, whose slaves you want to be once more?”",
+  "answer": "elementary principles. Full verse: “But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary principles of the world, whose slaves you want to be once more?”",
+  "reference": "Galatians 4:9",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v4_9",
+  "blanks": [
+   "elementary principles"
+  ]
+ },
+ {
+  "id": "fill-v4_13",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 4:13): “You know it was because of a ______________ that I preached the gospel to you at first,”",
+  "answer": "bodily ailment. Full verse: “You know it was because of a bodily ailment that I preached the gospel to you at first,”",
+  "reference": "Galatians 4:13",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v4_13",
+  "blanks": [
+   "bodily ailment"
+  ]
+ },
+ {
+  "id": "fill-v4_19",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 4:19): “my little children, for whom I am again in the ________________ until ________________!”",
+  "answer": "anguish of childbirth / Christ is formed in you. Full verse: “my little children, for whom I am again in the anguish of childbirth until Christ is formed in you!”",
+  "reference": "Galatians 4:19",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v4_19",
+  "blanks": [
+   "anguish of childbirth",
+   "Christ is formed in you"
+  ]
+ },
+ {
+  "id": "fill-v4_24",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 4:24): “Now this may be interpreted allegorically: these women are _____________. One is from ___________, bearing children for slavery; she is ______.”",
+  "answer": "two covenants / Mount Sinai / Hagar. Full verse: “Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar.”",
+  "reference": "Galatians 4:24",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v4_24",
+  "blanks": [
+   "two covenants",
+   "Mount Sinai",
+   "Hagar"
+  ]
+ },
+ {
+  "id": "fill-v4_26",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 4:26): “But the _______________ is free, and she is our mother.”",
+  "answer": "Jerusalem above. Full verse: “But the Jerusalem above is free, and she is our mother.”",
+  "reference": "Galatians 4:26",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v4_26",
+  "blanks": [
+   "Jerusalem above"
+  ]
+ },
+ {
+  "id": "fill-v4_28",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 4:28): “Now you, brothers, like ______, are ________________.”",
+  "answer": "Isaac / children of promise. Full verse: “Now you, brothers, like Isaac, are children of promise.”",
+  "reference": "Galatians 4:28",
+  "chapter": 4,
+  "section": "Doctrinal argument (3-4)",
+  "source": "v4_28",
+  "blanks": [
+   "Isaac",
+   "children of promise"
+  ]
+ },
+ {
+  "id": "fill-v5_1",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 5:1): “For _______ Christ has set us free; stand firm therefore, and do not submit again to a _______________.”",
+  "answer": "freedom / yoke of slavery. Full verse: “For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery.”",
+  "reference": "Galatians 5:1",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_1",
+  "blanks": [
+   "freedom",
+   "yoke of slavery"
+  ]
+ },
+ {
+  "id": "fill-v5_6",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 5:6): “For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only ________________.”",
+  "answer": "faith working through love. Full verse: “For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love.”",
+  "reference": "Galatians 5:6",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_6",
+  "blanks": [
+   "faith working through love"
+  ]
+ },
+ {
+  "id": "fill-v5_9",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 5:9): “A little ______ leavens the whole lump.”",
+  "answer": "leaven. Full verse: “A little leaven leavens the whole lump.”",
+  "reference": "Galatians 5:9",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_9",
+  "blanks": [
+   "leaven"
+  ]
+ },
+ {
+  "id": "fill-v5_13",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 5:13): “For you were called to freedom, brothers. Only do not use your freedom as an ________________, but through love ________________.”",
+  "answer": "opportunity for the flesh / serve one another. Full verse: “For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another.”",
+  "reference": "Galatians 5:13",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_13",
+  "blanks": [
+   "opportunity for the flesh",
+   "serve one another"
+  ]
+ },
+ {
+  "id": "fill-v5_14",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 5:14): “For the whole law is fulfilled in ________: “You shall ________________.””",
+  "answer": "one word / love your neighbor as yourself. Full verse: “For the whole law is fulfilled in one word: “You shall love your neighbor as yourself.””",
+  "reference": "Galatians 5:14",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_14",
+  "blanks": [
+   "one word",
+   "love your neighbor as yourself"
+  ]
+ },
+ {
+  "id": "fill-v5_16",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 5:16): “But I say, ________________, and you will not gratify the desires of the flesh.”",
+  "answer": "walk by the Spirit. Full verse: “But I say, walk by the Spirit, and you will not gratify the desires of the flesh.”",
+  "reference": "Galatians 5:16",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_16",
+  "blanks": [
+   "walk by the Spirit"
+  ]
+ },
+ {
+  "id": "fill-v5_17",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 5:17): “For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are ________________, to keep you from doing the things you want to do.”",
+  "answer": "opposed to each other. Full verse: “For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do.”",
+  "reference": "Galatians 5:17",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_17",
+  "blanks": [
+   "opposed to each other"
+  ]
+ },
+ {
+  "id": "fill-v5_18",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 5:18): “But if you are ________________, you are not under the law.”",
+  "answer": "led by the Spirit. Full verse: “But if you are led by the Spirit, you are not under the law.”",
+  "reference": "Galatians 5:18",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_18",
+  "blanks": [
+   "led by the Spirit"
+  ]
+ },
+ {
+  "id": "fill-v5_22_23",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 5:22-23): “But the fruit of the Spirit is ______, ______, ______, ________, ________, ________, ____________, __________, ____________; against such things there is no law.”",
+  "answer": "love / joy / peace / patience / kindness / goodness / faithfulness / gentleness / self-control. Full verse: “But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.”",
+  "reference": "Galatians 5:22-23",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_22_23",
+  "blanks": [
+   "love",
+   "joy",
+   "peace",
+   "patience",
+   "kindness",
+   "goodness",
+   "faithfulness",
+   "gentleness",
+   "self-control"
+  ]
+ },
+ {
+  "id": "fill-v5_24",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 5:24): “And those who belong to Christ Jesus have ________________ with its passions and desires.”",
+  "answer": "crucified the flesh. Full verse: “And those who belong to Christ Jesus have crucified the flesh with its passions and desires.”",
+  "reference": "Galatians 5:24",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_24",
+  "blanks": [
+   "crucified the flesh"
+  ]
+ },
+ {
+  "id": "fill-v5_25",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 5:25): “If we live by the Spirit, let us also ____________ with the Spirit.”",
+  "answer": "keep in step. Full verse: “If we live by the Spirit, let us also keep in step with the Spirit.”",
+  "reference": "Galatians 5:25",
+  "chapter": 5,
+  "section": "Practical living (5-6)",
+  "source": "v5_25",
+  "blanks": [
+   "keep in step"
+  ]
+ },
+ {
+  "id": "fill-v6_1",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 6:1): “Brothers, if anyone is caught in any transgression, you who are spiritual should ___________ in a ________________. Keep watch on yourself, lest you too be tempted.”",
+  "answer": "restore him / spirit of gentleness. Full verse: “Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted.”",
+  "reference": "Galatians 6:1",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_1",
+  "blanks": [
+   "restore him",
+   "spirit of gentleness"
+  ]
+ },
+ {
+  "id": "fill-v6_2",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 6:2): “Bear one another's _______, and so fulfill the _____________.”",
+  "answer": "burdens / law of Christ. Full verse: “Bear one another's burdens, and so fulfill the law of Christ.”",
+  "reference": "Galatians 6:2",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_2",
+  "blanks": [
+   "burdens",
+   "law of Christ"
+  ]
+ },
+ {
+  "id": "fill-v6_5",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 6:5): “For each will have to bear ____________.”",
+  "answer": "his own load. Full verse: “For each will have to bear his own load.”",
+  "reference": "Galatians 6:5",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_5",
+  "blanks": [
+   "his own load"
+  ]
+ },
+ {
+  "id": "fill-v6_7",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 6:7): “Do not be deceived: God is not ______, for whatever one ______, that will he also ______.”",
+  "answer": "mocked / sows / reap. Full verse: “Do not be deceived: God is not mocked, for whatever one sows, that will he also reap.”",
+  "reference": "Galatians 6:7",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_7",
+  "blanks": [
+   "mocked",
+   "sows",
+   "reap"
+  ]
+ },
+ {
+  "id": "fill-v6_8",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 6:8): “For the one who sows to his own flesh will from the flesh reap __________, but the one who sows to the Spirit will from the Spirit reap ____________.”",
+  "answer": "corruption / eternal life. Full verse: “For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life.”",
+  "reference": "Galatians 6:8",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_8",
+  "blanks": [
+   "corruption",
+   "eternal life"
+  ]
+ },
+ {
+  "id": "fill-v6_9",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Galatians 6:9): “And let us not __________ of doing good, for in __________ we will reap, if we do not give up.”",
+  "answer": "grow weary / due season. Full verse: “And let us not grow weary of doing good, for in due season we will reap, if we do not give up.”",
+  "reference": "Galatians 6:9",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_9",
+  "blanks": [
+   "grow weary",
+   "due season"
+  ]
+ },
+ {
+  "id": "fill-v6_10",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 6:10): “So then, as we have opportunity, let us do good to everyone, and especially to those who are of the ________________.”",
+  "answer": "household of faith. Full verse: “So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith.”",
+  "reference": "Galatians 6:10",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_10",
+  "blanks": [
+   "household of faith"
+  ]
+ },
+ {
+  "id": "fill-v6_11",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 6:11): “See with what _____________ I am writing to you with my own hand.”",
+  "answer": "large letters. Full verse: “See with what large letters I am writing to you with my own hand.”",
+  "reference": "Galatians 6:11",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_11",
+  "blanks": [
+   "large letters"
+  ]
+ },
+ {
+  "id": "fill-v6_14",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 6:14): “But far be it from me to boast except in ________________, by which the world has been crucified to me, and I to the world.”",
+  "answer": "the cross of our Lord Jesus Christ. Full verse: “But far be it from me to boast except in the cross of our Lord Jesus Christ, by which the world has been crucified to me, and I to the world.”",
+  "reference": "Galatians 6:14",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_14",
+  "blanks": [
+   "the cross of our Lord Jesus Christ"
+  ]
+ },
+ {
+  "id": "fill-v6_15",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 6:15): “For neither circumcision counts for anything, nor uncircumcision, but a ____________.”",
+  "answer": "new creation. Full verse: “For neither circumcision counts for anything, nor uncircumcision, but a new creation.”",
+  "reference": "Galatians 6:15",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_15",
+  "blanks": [
+   "new creation"
+  ]
+ },
+ {
+  "id": "fill-v6_17",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Galatians 6:17): “From now on let no one cause me trouble, for I bear on my body the ______________.”",
+  "answer": "marks of Jesus. Full verse: “From now on let no one cause me trouble, for I bear on my body the marks of Jesus.”",
+  "reference": "Galatians 6:17",
+  "chapter": 6,
+  "section": "Practical living (5-6)",
+  "source": "v6_17",
+  "blanks": [
+   "marks of Jesus"
+  ]
+ }
+]
